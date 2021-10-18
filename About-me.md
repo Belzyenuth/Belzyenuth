@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Belzyenuth, you can also call me Belzye
+- 👀 I’m interested in programmation for robots
+- 🌱 I’m currently learning C language
+- 💞️ I’m looking to collaborate on other first year student who are coding in C (this is the only language that I am currently learning)
+- 📫 How to reach me @ my e-mail: lecorreenzo@outlook.com or on my discord: Belzye#2136 !
